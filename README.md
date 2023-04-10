@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou a procura de emprego como Front-end
 - 🌱 Atualmente estou estudando Javascript e React.js
-- 🙎‍♂️ pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/Jatanael">
